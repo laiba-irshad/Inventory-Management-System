@@ -89,13 +89,13 @@ Inventory-Management-System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/inventory-management-system-fastapi.git
+git clone https://github.com/laiba-irshad/Inventory-Management-System.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd inventory-management-system-fastapi
+cd inventory-management-system
 ```
 
 ### 3. Create a virtual environment
