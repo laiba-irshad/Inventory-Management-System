@@ -212,7 +212,7 @@ FastAPI automatically generates interactive API documentation.
 
 ---
 
-## 👥 Developed By
+## 👨‍💻 Developed By
 
 - **Laiba Irshad**
 - **Shakir Hussain**
